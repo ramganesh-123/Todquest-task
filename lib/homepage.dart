@@ -113,7 +113,7 @@ class Homepage extends StatelessWidget {
             }
             return null;
           },
-          autovalidateMode: AutovalidateMode.onUserInteraction,
+          //autovalidateMode: AutovalidateMode.onUserInteraction,
         ),
       ),
       textConfirm: 'Add',
